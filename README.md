@@ -32,6 +32,7 @@ The proposal consists of:
       * HTML form that interacts with Flask backend
       * "Submit" button takes user to results page
       * On results page, give user the ability to do another query or go back to the start page again
+      * Pages are linkable so user can share results with anyone without having to fill out the form again
     * Pages
       * Introduction page — this page will educate the user of the problem statement, give them an introduction to the data if needed, have some visuals and explanatory text
       * Requests Page (can be combined with Intro Page)
